@@ -1,0 +1,23 @@
+2024-02-01 17:02:27 INFO  GetRequestForFacts:60 - io.restassured.internal.RestAssuredResponseImpl@1fac1d5c
+2024-02-01 17:02:31 INFO  GetRequestForFacts:100 - io.restassured.internal.RestAssuredResponseImpl@718fd7c1
+2024-02-01 17:02:33 INFO  GetRequestForFacts:146 - io.restassured.internal.RestAssuredResponseImpl@5287ba5f
+2024-02-01 17:02:34 INFO  GetRequestForFacts:126 - io.restassured.internal.RestAssuredResponseImpl@6222391a
+2024-02-01 17:02:35 INFO  GetRequestForFacts:78 - io.restassured.internal.RestAssuredResponseImpl@5b48f0f4
+2024-02-01 17:02:35 INFO  GetRequestForFacts:159 - Test bitti.
+2024-02-01 17:03:36 INFO  GetRequestForBreeds:117 - io.restassured.internal.RestAssuredResponseImpl@1debc91c
+2024-02-01 17:03:40 INFO  GetRequestForBreeds:153 - io.restassured.internal.RestAssuredResponseImpl@5f0bab7e
+2024-02-01 17:03:41 INFO  GetRequestForBreeds:136 - io.restassured.internal.RestAssuredResponseImpl@552cede7
+2024-02-01 17:03:43 INFO  GetRequestForBreeds:63 - io.restassured.internal.RestAssuredResponseImpl@64ae105d
+2024-02-01 17:03:44 INFO  GetRequestForBreeds:84 - io.restassured.internal.RestAssuredResponseImpl@b6bccb4
+2024-02-01 17:03:45 INFO  GetRequestForBreeds:165 - Test bitti.
+2024-02-01 17:04:09 INFO  GetRequestForFact:129 - io.restassured.internal.RestAssuredResponseImpl@687e4c93
+2024-02-01 17:04:11 INFO  GetRequestForFact:63 - io.restassured.internal.RestAssuredResponseImpl@2b1cd7bc
+2024-02-01 17:04:13 INFO  GetRequestForFact:108 - io.restassured.internal.RestAssuredResponseImpl@2d313c8c
+2024-02-01 17:04:14 INFO  GetRequestForFact:87 - io.restassured.internal.RestAssuredResponseImpl@6df4af5
+2024-02-01 17:04:14 INFO  GetRequestForFact:142 - Test bitti.
+2024-02-01 17:50:41 INFO  GetRequestForBreeds:117 - io.restassured.internal.RestAssuredResponseImpl@7a04fea7
+2024-02-01 17:50:45 INFO  GetRequestForBreeds:153 - io.restassured.internal.RestAssuredResponseImpl@697d6ded
+2024-02-01 17:50:45 INFO  GetRequestForBreeds:136 - io.restassured.internal.RestAssuredResponseImpl@739265f1
+2024-02-01 17:50:46 INFO  GetRequestForBreeds:63 - io.restassured.internal.RestAssuredResponseImpl@510689af
+2024-02-01 17:50:47 INFO  GetRequestForBreeds:84 - io.restassured.internal.RestAssuredResponseImpl@e91af20
+2024-02-01 17:50:47 INFO  GetRequestForBreeds:165 - Test bitti.
